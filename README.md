@@ -1,2 +1,2 @@
 # hello-world
-start the journal on github
+start the journey on github
